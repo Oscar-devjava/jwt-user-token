@@ -11,8 +11,10 @@
 <h2>Porque iniciei esse proj? </h2>
 <p>
   Buscando por conteudos sobre Spring security e validação de usuario notei <br>
-  que existem poucos projetos atuais sobre o assunto e com isso visando ajudar <br>
-  dev que estão iniciando para que não utilizem ferramentas ou metodos depreciadas!
+  que, existem poucos projetos atuais sobre o assunto, e com isso visando ajudar <br>
+  devs que estão iniciando  resolvi criar esse repository  para que não utilizem  <br>
+  ferramentas que não são mais necessarias ou metodos depreciados!
+ 
 </p>
 <h2>Fase atual</h2>
 <p>
